@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FFAB&lines=Hello+World%2C+This+is+%Sakib%;Passionate+Coder!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FFAB&lines=Hello+World%2C+This+is+Sakib;Passionate+Coder...;Welcome+to+my+profile...)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sakib-ar&color=blue)
 
