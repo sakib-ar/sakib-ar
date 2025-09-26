@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&color=FFD700&left=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+my+GitHub+Profile;Explore+||+Learn+||+Create)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&color=FFD700&left=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+my+GitHub+Profile...;Explore+my+Repos)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-ar&layout=compact&theme=cobalt)
 
