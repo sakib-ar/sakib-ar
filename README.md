@@ -4,6 +4,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib-ar&show_icons=true&theme=radical)
 
+### Social Media Links:
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Sakib.rar003)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sakib.rar)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sakib_ar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib-ar)
+
 <!--
 Some ideas:
 - ![Profile Views](https://komarev.com/ghpvc/?username=sakib-ar&color=blue)
