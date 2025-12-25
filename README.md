@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&color=FFD700&left=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+my+GitHub+Profile;Explore+my+Repos...)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-ar&layout=compact&theme=cobalt&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-ar&layout=compact&theme=cobalt)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib-ar&show_icons=true&theme=radical&cache_seconds=86400)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib-ar&show_icons=true&theme=radical)
 
 ### Social Media Links:
 <a href="https://www.facebook.com/Sakib.rar003"><img src="Assets/Icons/Facebook Logo (40x40).png" alt="Facebook"/></a>
