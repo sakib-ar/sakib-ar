@@ -20,3 +20,18 @@ Some ideas:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](./profile/stats.svg)  
+![Top Langs](./profile/top-langs.svg)  
+
+---
